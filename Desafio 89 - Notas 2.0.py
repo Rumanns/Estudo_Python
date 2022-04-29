@@ -1,6 +1,6 @@
 """
- Title: Lottery
- Objective: Randomize numbers to play lottery.
+ Title: Dados escolares usando dicionário
+ Objective: Buscar dados num dicionário e exibir na tela a partir da busca de um usuário.
  Author: José Valdeir
- Date: 05/02/2021
+ Date: 29/04/2022
 """
